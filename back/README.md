@@ -48,12 +48,14 @@ How looking: Bearer qwkeljqlwje.lqwekjqwlje.qweojqwoej
 
 api/v1/auth/reg POST
 Type | JSON
+--- | ---
 Request | {"username": "name", "password": "something", "email": "admin@gmail.com"}
 Response | {"status"}
 Error response | {"status": "ok"}
 
 api/v1/auth/log POST
 Type | JSON
+--- | ---
 Request | {"username": "name", "password": "something"}
 Response | {"token": "qweljqwlejo123uj.oodjwoi1j2320j.1230udwq"}
 Error response | {"status": "ok"}
