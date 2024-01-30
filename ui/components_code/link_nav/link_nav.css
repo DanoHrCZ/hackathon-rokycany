@@ -1,0 +1,15 @@
+.nav_link{
+    display: block;
+    background-color: var(--color_light_grey);
+    text-align: center;
+    text-decoration: none;
+    border: solid 2px black;
+    border-radius: 5px;
+    padding: 5px;
+    width: 100px;
+    color: black;
+}
+.nav_link:hover{
+    background-color: var(--color_grey);
+    transition: 200ms;
+}

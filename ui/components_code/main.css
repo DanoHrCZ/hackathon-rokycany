@@ -1,0 +1,15 @@
+*{
+--color_light_grey: #f0f0f0;
+}
+
+*{
+--color_grey: #cfcfcf;
+}
+
+*{
+--color_green: #90BE6D;
+}
+
+body{
+background-color: var(--color_light_grey);
+}
