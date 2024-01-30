@@ -1,6 +1,6 @@
 .nav_link{
     display: block;
-    background-color: var(--color_light_grey);
+    background-color: var(--color_light_grey); /* případně var(--color_green)*/
     text-align: center;
     text-decoration: none;
     border: solid 2px black;
@@ -10,6 +10,6 @@
     color: black;
 }
 .nav_link:hover{
-    background-color: var(--color_grey);
+    background-color: var(--color_grey); /* případně var(--color_dark_green)*/
     transition: 200ms;
 }

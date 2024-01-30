@@ -9,7 +9,9 @@
 *{
 --color_green: #90BE6D;
 }
-
+*{
+    --color_dark_green: #759e55;
+    }
 body{
 background-color: var(--color_light_grey);
 }
